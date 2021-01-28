@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Change network card on server 007",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-01-27T21:00:01.218Z",
-      "id": 1
+      "tech": "Sara Wilson",
+      "date": "2021-01-28T21:37:12.403Z"
     },
     {
       "id": 2,
       "message": "Fixed hard drive on workstation 002",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2021-01-28T21:28:02.406Z"
+      "tech": "Sam Smith",
+      "date": "2021-01-28T21:51:15.481Z"
     },
     {
       "message": "1122 wireless down",
